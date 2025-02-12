@@ -1,0 +1,30 @@
+
+        Araç Piyasası Analiz Raporu
+        Tarih: 2025-02-10
+        
+        Genel İstatistikler:
+        - Toplam Araç Sayısı: 1000
+        - Ortalama Fiyat: 923,718 TL
+        - Minimum Fiyat: 100,000 TL
+        - Maksimum Fiyat: 1,910,189 TL
+        - Medyan Fiyat: 908,082 TL
+        
+        En Popüler Markalar:
+        ------------------------------
+        - BMW: 133 adet
+- Renault: 109 adet
+- Volkswagen: 109 adet
+- Ford: 107 adet
+- Honda: 100 adet
+- Toyota: 94 adet
+- Hyundai: 93 adet
+- Mercedes: 92 adet
+- Fiat: 88 adet
+- Audi: 75 adet
+
+Yakıt Tipi Dağılımı:
+------------------------------
+- benzin: 410 adet
+- dizel: 377 adet
+- hybrid: 157 adet
+- elektrik: 56 adet
