@@ -1,6 +1,6 @@
 # Araç Fiyat Tahmin Uygulaması
 
-Bu proje, araç fiyat tahmini yapmak için bir uygulama geliştirmeyi amaçlamaktadır. Uygulama, araç bilgilerini alır, sahibinden.com'dan veri çeker ve hasar durumuna göre fiyat tahmini yapar.
+Bu proje, araç fiyat tahmini yapmak için bir uygulama geliştirmeyi amaçlamaktadır. Uygulama, araç bilgilerini alır, uygun sitelerden veri çeker ve hasar durumuna göre fiyat tahmini yapar.
 
 ## Klasör Yapısı
 
